@@ -44,9 +44,9 @@ Of the body and title features, I developed core features to examine:
 
 Objectives:
 
-    Perform an EDA on the data to develop an understanding of the dataset, the number of people determined to be assholes or not, and what features or characteristics best determine thar someone is or is not an asshole as judged by the community.
-    Use the EDA to determine the optimal features for modeling. 
-    Run models and compare between them to see which performs best (between XGBoost, Random Forest, Decision Tree, and Logistic Regression).
+   - Perform an EDA on the data to develop an understanding of the dataset, the number of people determined to be assholes or not, and what features or characteristics best determine thar someone is or is not an asshole as judged by the community.
+   - Use the EDA to determine the optimal features for modeling. 
+   - Run models and compare between them to see which performs best (between XGBoost, Random Forest, Decision Tree, and Logistic Regression).
     
 
 Reports
